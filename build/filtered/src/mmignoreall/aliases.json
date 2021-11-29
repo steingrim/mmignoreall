@@ -1,0 +1,6 @@
+[
+    {
+      "name": "Mm Ignoreall Steingrim Version",
+      "regex": "(?i)^mm ?ignoreall(?: (help|on|off|def|misc|aff|affs|all))?$"
+    }
+  ]
